@@ -1,0 +1,6 @@
+
+test "Hacer que un equipo juegue contra otro" {
+
+	assert.that(true)
+
+}

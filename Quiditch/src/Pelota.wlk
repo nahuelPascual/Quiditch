@@ -1,0 +1,4 @@
+object quaffle {
+}
+object snitch {
+}
